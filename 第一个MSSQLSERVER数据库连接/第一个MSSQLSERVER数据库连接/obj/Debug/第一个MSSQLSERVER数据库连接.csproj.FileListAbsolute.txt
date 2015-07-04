@@ -1,0 +1,6 @@
+c:\users\ismdeep\documents\visual studio 2013\Projects\第一个MSSQLSERVER数据库连接\第一个MSSQLSERVER数据库连接\bin\Debug\第一个MSSQLSERVER数据库连接.exe.config
+c:\users\ismdeep\documents\visual studio 2013\Projects\第一个MSSQLSERVER数据库连接\第一个MSSQLSERVER数据库连接\obj\Debug\第一个MSSQLSERVER数据库连接.csprojResolveAssemblyReference.cache
+c:\users\ismdeep\documents\visual studio 2013\Projects\第一个MSSQLSERVER数据库连接\第一个MSSQLSERVER数据库连接\bin\Debug\第一个MSSQLSERVER数据库连接.exe
+c:\users\ismdeep\documents\visual studio 2013\Projects\第一个MSSQLSERVER数据库连接\第一个MSSQLSERVER数据库连接\bin\Debug\第一个MSSQLSERVER数据库连接.pdb
+c:\users\ismdeep\documents\visual studio 2013\Projects\第一个MSSQLSERVER数据库连接\第一个MSSQLSERVER数据库连接\obj\Debug\第一个MSSQLSERVER数据库连接.exe
+c:\users\ismdeep\documents\visual studio 2013\Projects\第一个MSSQLSERVER数据库连接\第一个MSSQLSERVER数据库连接\obj\Debug\第一个MSSQLSERVER数据库连接.pdb
