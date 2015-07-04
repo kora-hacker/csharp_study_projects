@@ -1,0 +1,6 @@
+c:\users\ismdeep\documents\visual studio 2013\Projects\get和set的使用\get和set的使用\bin\Debug\get和set的使用.exe.config
+c:\users\ismdeep\documents\visual studio 2013\Projects\get和set的使用\get和set的使用\obj\Debug\get和set的使用.csprojResolveAssemblyReference.cache
+c:\users\ismdeep\documents\visual studio 2013\Projects\get和set的使用\get和set的使用\bin\Debug\get和set的使用.exe
+c:\users\ismdeep\documents\visual studio 2013\Projects\get和set的使用\get和set的使用\bin\Debug\get和set的使用.pdb
+c:\users\ismdeep\documents\visual studio 2013\Projects\get和set的使用\get和set的使用\obj\Debug\get和set的使用.exe
+c:\users\ismdeep\documents\visual studio 2013\Projects\get和set的使用\get和set的使用\obj\Debug\get和set的使用.pdb
